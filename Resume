@@ -1,0 +1,21 @@
+Project Overview
+This project is a store management simulation designed to run in a computer terminal. It allows users to register
+ products or services offered by the store, as well as manage customer records.
+
+A key feature of this system is its customer loyalty program, which automatically applies discounts to frequent customers
+based on a predefined number of purchases and total amount spent.
+
+Additionally, the software includes a data analysis module that processes sales data in real-time, providing insights
+through graphical visualizations of past and current transactions. Users can filter sales by specific time periods,
+enhancing the decision-making process.
+
+Technologies Used
+-> Python – Core programming language
+-> Control Structures – Basic functions, conditionals, and loops
+-> Object-Oriented Programming (OOP) – Use of classes to organize the system
+-> Pandas – File manipulation and data processing
+-> Seaborn – Data visualization and graphical representation of sales
+-> Datetime – Handling and filtering sales data based on specific time periods
+
+This project aims to enhance store efficiency, optimize customer engagement, and provide valuable business insights
+through a streamlined and user-friendly interface.
